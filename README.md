@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghnurhn" target="blank"><img src="https://img.shields.io/twitter/follow/ghnurhn?logo=twitter&style=for-the-badge" alt="ghnurhn" /></a> </p>
 
-- 🔭 I’m currently working on **Core Initiative**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **React, Vue, Laravel**
 
